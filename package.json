@@ -1,6 +1,6 @@
 {
   "name": "tiny-cipher",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tiny cipher/decipher",
   "main": "lib/tiny-cipher.js",
   "scripts": {
